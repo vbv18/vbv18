@@ -1,22 +1,22 @@
 {
   "username": "vbv18",
-  "generated_at": "2026-08-21T07:07:23Z",
+  "generated_at": "2026-08-22T06:59:40Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-22"
+  },
+  "total_contributions": 528,
+  "active_days": 91,
+  "avg_per_active_day": 5.8,
+  "current_streak": {
+    "length": 36,
+    "start": "2026-07-17",
     "end": "2026-08-21"
   },
-  "total_contributions": 527,
-  "active_days": 90,
-  "avg_per_active_day": 5.9,
-  "current_streak": {
-    "length": 35,
-    "start": "2026-07-17",
-    "end": "2026-08-20"
-  },
   "longest_streak": {
-    "length": 35,
+    "length": 36,
     "start": "2026-07-17",
-    "end": "2026-08-20"
+    "end": "2026-08-21"
   },
   "best_day": {
     "date": "2026-05-16",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 25
+      "total": 26
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-08-21",
+      "count": 1
+    },
+    {
+      "date": "2026-08-22",
       "count": 0
     }
   ]
